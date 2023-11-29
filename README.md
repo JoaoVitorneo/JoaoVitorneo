@@ -1,5 +1,7 @@
 Hello everyone!
-(Java|SprinBoot|Javascript|Banco de Dados| HTMl & CSS)
+## My name is João Vitor
+
+(Java | SprinBoot | Javascript | Banco de Dados | HTMl & CSS)
 <div>
   <a href="https://github.com/JoaoVitorneo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorneo&layout=compact&langs_count=7&theme=dark"/
